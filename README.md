@@ -1,5 +1,5 @@
 # InstagramStoriesUI
-Cloning of Instagram story UI
+UI Cloning of Instagram story view
 
 # Snapshot
 
